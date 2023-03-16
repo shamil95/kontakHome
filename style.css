@@ -3,3 +3,8 @@
   flex-direction: column;
   width: 250px;
 }
+
+.header {
+  width: 100px;
+  background-color: red;
+}
